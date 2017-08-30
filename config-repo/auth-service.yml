@@ -21,4 +21,4 @@ spring:
   jpa:
     show-sql: true
 logging:
-  config: logback-spring.xml
+  config: file://./logback-spring.xml
