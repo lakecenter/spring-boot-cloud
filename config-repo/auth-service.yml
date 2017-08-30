@@ -20,3 +20,5 @@ spring:
     driver-class-name: org.h2.Driver
   jpa:
     show-sql: true
+logging:
+  config: logback-spring.xml
